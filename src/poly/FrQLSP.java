@@ -102,7 +102,7 @@ public class FrQLSP extends javax.swing.JPanel {
         jLabel1.setText("Quản lý sản phẩm");
 
         btDauTien.setBackground(new java.awt.Color(255, 255, 255));
-        btDauTien.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/First record.png"))); // NOI18N
+        btDauTien.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/First_record.png"))); // NOI18N
         btDauTien.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btDauTienActionPerformed(evt);
@@ -110,7 +110,7 @@ public class FrQLSP extends javax.swing.JPanel {
         });
 
         btLui.setBackground(new java.awt.Color(255, 255, 255));
-        btLui.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/Rewind.png"))); // NOI18N
+        btLui.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/Rewind.png"))); // NOI18N
         btLui.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btLuiActionPerformed(evt);
@@ -118,7 +118,7 @@ public class FrQLSP extends javax.swing.JPanel {
         });
 
         btTien.setBackground(new java.awt.Color(255, 255, 255));
-        btTien.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/Fast-forward.png"))); // NOI18N
+        btTien.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/Fast-forward.png"))); // NOI18N
         btTien.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btTienActionPerformed(evt);
@@ -126,7 +126,7 @@ public class FrQLSP extends javax.swing.JPanel {
         });
 
         btCuoi.setBackground(new java.awt.Color(255, 255, 255));
-        btCuoi.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/Last recor.png"))); // NOI18N
+        btCuoi.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/Last_recor.png"))); // NOI18N
         btCuoi.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btCuoiActionPerformed(evt);
@@ -135,7 +135,7 @@ public class FrQLSP extends javax.swing.JPanel {
 
         btXuatFile.setBackground(new java.awt.Color(255, 255, 255));
         btXuatFile.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        btXuatFile.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/Print.png"))); // NOI18N
+        btXuatFile.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/Print.png"))); // NOI18N
         btXuatFile.setText("Xuất File");
         btXuatFile.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -152,7 +152,7 @@ public class FrQLSP extends javax.swing.JPanel {
         txtMaSpFind.setBackground(new java.awt.Color(204, 204, 204));
 
         bttTimKiem.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        bttTimKiem.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/Search.png"))); // NOI18N
+        bttTimKiem.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/Search.png"))); // NOI18N
         bttTimKiem.setText("Find");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
@@ -164,9 +164,9 @@ public class FrQLSP extends javax.swing.JPanel {
                 .addComponent(jLabel3, javax.swing.GroupLayout.PREFERRED_SIZE, 78, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(18, 18, 18)
                 .addComponent(txtMaSpFind, javax.swing.GroupLayout.PREFERRED_SIZE, 237, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(53, 53, 53)
+                .addGap(62, 62, 62)
                 .addComponent(bttTimKiem)
-                .addContainerGap(99, Short.MAX_VALUE))
+                .addContainerGap(90, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -330,7 +330,7 @@ public class FrQLSP extends javax.swing.JPanel {
 
         btThem.setBackground(new java.awt.Color(255, 255, 255));
         btThem.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        btThem.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/Add.png"))); // NOI18N
+        btThem.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/Add.png"))); // NOI18N
         btThem.setText("Thêm");
         btThem.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -340,7 +340,7 @@ public class FrQLSP extends javax.swing.JPanel {
 
         btLuu.setBackground(new java.awt.Color(255, 255, 255));
         btLuu.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        btLuu.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/Save.png"))); // NOI18N
+        btLuu.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/Save.png"))); // NOI18N
         btLuu.setText("Lưu");
         btLuu.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -350,12 +350,12 @@ public class FrQLSP extends javax.swing.JPanel {
 
         btXoa.setBackground(new java.awt.Color(255, 255, 255));
         btXoa.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        btXoa.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/Delete.png"))); // NOI18N
+        btXoa.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/Delete.png"))); // NOI18N
         btXoa.setText("Xóa");
 
         btSua.setBackground(new java.awt.Color(255, 255, 255));
         btSua.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        btSua.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/Edit.png"))); // NOI18N
+        btSua.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/Edit.png"))); // NOI18N
         btSua.setText("Sửa");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(this);

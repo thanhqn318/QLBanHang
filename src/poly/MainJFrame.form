@@ -60,7 +60,7 @@
                   <Component id="jPanel4" min="-2" max="-2" attributes="0"/>
                   <EmptySpace min="-2" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="0" attributes="0">
-                      <Component id="jpnView" pref="805" max="32767" attributes="0"/>
+                      <Component id="jpnView" pref="789" max="32767" attributes="0"/>
                       <Component id="jpnRoot" max="32767" attributes="0"/>
                   </Group>
                   <EmptySpace max="-2" attributes="0"/>
@@ -138,7 +138,7 @@
                       <Component id="pnQLHD" min="-2" max="-2" attributes="0"/>
                       <EmptySpace type="separate" max="-2" attributes="0"/>
                       <Component id="pnDangXuat" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace pref="86" max="32767" attributes="0"/>
+                      <EmptySpace pref="70" max="32767" attributes="0"/>
                   </Group>
               </Group>
             </DimensionLayout>
@@ -508,7 +508,7 @@
                 </Property>
                 <Property name="horizontalAlignment" type="int" value="4"/>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/icon/baseline_close_white_24dp.png"/>
+                  <Image iconType="3" name="/img/icon_x_trang.png"/>
                 </Property>
               </Properties>
               <Events>
@@ -525,7 +525,7 @@
                 </Property>
                 <Property name="horizontalAlignment" type="int" value="0"/>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/icon/baseline_maximize_black_24dp - Copy.png"/>
+                  <Image iconType="3" name="/img/icon_Thube_trang.png"/>
                 </Property>
               </Properties>
               <Events>

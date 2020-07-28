@@ -211,7 +211,7 @@
           <Color blue="ff" green="ff" red="ff" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/icon/First record.png"/>
+          <Image iconType="3" name="/img/First_record.png"/>
         </Property>
       </Properties>
       <Events>
@@ -224,7 +224,7 @@
           <Color blue="ff" green="ff" red="ff" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/icon/Rewind.png"/>
+          <Image iconType="3" name="/img/Rewind.png"/>
         </Property>
       </Properties>
       <Events>
@@ -237,7 +237,7 @@
           <Color blue="ff" green="ff" red="ff" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/icon/Fast-forward.png"/>
+          <Image iconType="3" name="/img/Fast-forward.png"/>
         </Property>
       </Properties>
       <Events>
@@ -250,7 +250,7 @@
           <Color blue="ff" green="ff" red="ff" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/icon/Last recor.png"/>
+          <Image iconType="3" name="/img/Last_recor.png"/>
         </Property>
       </Properties>
       <Events>
@@ -266,7 +266,7 @@
           <Font name="Tahoma" size="18" style="0"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/icon/Print.png"/>
+          <Image iconType="3" name="/img/Print.png"/>
         </Property>
         <Property name="text" type="java.lang.String" value="Xu&#x1ea5;t File"/>
       </Properties>
@@ -294,9 +294,9 @@
                   <Component id="jLabel3" min="-2" pref="78" max="-2" attributes="0"/>
                   <EmptySpace type="separate" min="-2" max="-2" attributes="0"/>
                   <Component id="txtMaSpFind" min="-2" pref="237" max="-2" attributes="0"/>
-                  <EmptySpace min="-2" pref="53" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="62" max="-2" attributes="0"/>
                   <Component id="bttTimKiem" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace pref="99" max="32767" attributes="0"/>
+                  <EmptySpace pref="90" max="32767" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -336,7 +336,7 @@
               <Font name="Tahoma" size="18" style="0"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/icon/Search.png"/>
+              <Image iconType="3" name="/img/Search.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Find"/>
           </Properties>
@@ -640,7 +640,7 @@
           <Font name="Tahoma" size="18" style="0"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/icon/Add.png"/>
+          <Image iconType="3" name="/img/Add.png"/>
         </Property>
         <Property name="text" type="java.lang.String" value="Th&#xea;m"/>
       </Properties>
@@ -657,7 +657,7 @@
           <Font name="Tahoma" size="18" style="0"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/icon/Save.png"/>
+          <Image iconType="3" name="/img/Save.png"/>
         </Property>
         <Property name="text" type="java.lang.String" value="L&#x1b0;u"/>
       </Properties>
@@ -674,7 +674,7 @@
           <Font name="Tahoma" size="18" style="0"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/icon/Delete.png"/>
+          <Image iconType="3" name="/img/Delete.png"/>
         </Property>
         <Property name="text" type="java.lang.String" value="X&#xf3;a"/>
       </Properties>
@@ -688,7 +688,7 @@
           <Font name="Tahoma" size="18" style="0"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/icon/Edit.png"/>
+          <Image iconType="3" name="/img/Edit.png"/>
         </Property>
         <Property name="text" type="java.lang.String" value="S&#x1eed;a"/>
       </Properties>
