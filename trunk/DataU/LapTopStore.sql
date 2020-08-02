@@ -78,9 +78,3 @@ CREATE TABLE USERS
 
 INSERT INTO LapTop
 VALUES (N'LT01',N'Asus Vivobook','RAM 8GB',N'Trắng','Asus',10,N'12 tháng',15000000,'Asusvivobook.jpg')
-
-InSERT into NhanVien 
-Values('NV01',N'Thành','NB','10030124','2020-01-01',1,N'ádasd')
-
-InSERT into KhachHang 
-Values('KH01',N'Quách','NB','10030124',1,N'ádasd','2020-01-01','a.jpg')
